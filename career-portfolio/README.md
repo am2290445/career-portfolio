@@ -1,76 +1,56 @@
-# Aryanna Mason Portfolio
+# Aryanna Mason | Career Portfolio
 
-**Aryanna Mason — Business & Information Systems Career Hub**
+Welcome to my professional portfolio!
 
-**Portfolio website:** https://am2290445.github.io/career-portfolio/
+I am a Business and Information Systems student at the New Jersey Institute of Technology (NJIT), with an Associate degree in Business Administration. I created this portfolio to share my academic background, explore career opportunities in artificial intelligence, and document my growth as I work toward a career in technology.
 
-A career-research and personal-branding hub focused on Business and Information Systems, especially the ways data, technology, and information systems help organizations make better decisions.
+My interests include artificial intelligence, data engineering, business systems, information technology, and the ways organizations can use technology and data to solve real-world problems. I am also interested in continuing my education by pursuing a Master's degree in Information Systems.
 
-## Explore
-- Career Atlas: Data Analyst, BI Analyst, Data Engineer, Analytics Engineer, Data Scientist, Machine Learning Engineer, Statistical Programmer, Systems Analyst.
-- Role descriptions, responsibilities, skills, education, and business-growth connections.
-- LinkedIn, resume, GitHub, and project organization.
-- Explorer + Creator archetypes and postmodernist visual direction.
-- Learning roadmap, career reflections, and a source library.
+## Explore My Portfolio
 
-## Personal brand direction
-- **Primary archetype:** Explorer — curiosity, discovery, and learning.
-- **Supporting archetype:** Creator — experimentation and turning ideas into useful projects.
-- **Visual direction:** Postmodernism — expressive typography, layered cards, collage-inspired composition, unexpected color combinations, and playful navigation, balanced with readability and accessibility.
-- **Positioning:** A Business and Information Systems student exploring how data, databases, and technology can help organizations make informed decisions.
+This website brings together my professional background, career research, projects, and future goals.
 
-Archetypes are a creative framework, not a substitute for real experience. Claims about skills and outcomes should be backed by project evidence.
+- **About Me** – Learn about my education, interests, background, and career goals.
+- **AI Career Atlas** – Explore seven career paths related to artificial intelligence, including AI Business Analyst, AI Engineer, AI Data Engineer, AI Solutions Architect, AI Product Manager, AI Automation Engineer, and AI Forward-Deployed Engineer.
+- **Career Reflections** – Read my reflections on different career paths, what interests me, and how my goals are developing.
+- **Skills Roadmap** – Follow the technical and professional skills I am working to strengthen.
+- **Projects** – Explore academic and technical projects that demonstrate my learning, creativity, and problem-solving.
+- **Professional Hub** – Find information about my resume, professional development, and technical skills.
+- **Research Library** – Review the research and resources supporting my career exploration.
 
-## Run in VS Code
+## My Academic and Technical Interests
 
-1. Install Node.js 22.16+ or 24+.
-2. Open this folder in VS Code.
-3. Open **Terminal → New Terminal**.
-4. Run:
+I am especially interested in the connection between business and technology. Through my coursework and projects, I have been developing experience with:
 
-```bash
-npm install
-npm run docs:dev
-```
+- Python and programming fundamentals
+- Information systems and databases
+- Data analysis and problem-solving
+- GitHub and version control
+- Website development and documentation
+- Research and collaborative projects
 
-5. Open the local URL shown in the terminal.
+I want to continue building these skills while learning more about AI technologies, data systems, and how businesses can apply them effectively.
 
-Build and preview:
+## Featured Project: Elsewhere
 
-```bash
-npm run docs:build
-npm run docs:preview
-```
+One of my academic projects is **Elsewhere**, an everyday fashion brand concept developed as part of my Brand Studio work.
 
-## Publish with GitHub Pages
+The project involved developing a brand identity, creating a website, designing a storefront, and building a style guide. It allowed me to apply creativity, research, web development, and business concepts in one project.
 
-The repository should be `am2290445/career-portfolio`.
+**Brand slogan:** "Less ordinary. More you."
 
-1. Copy the contents of this folder into your local clone of that repository.
-2. Commit and push to the `main` branch.
-3. In GitHub, open **Settings → Pages**.
-4. Under **Build and deployment**, set **Source** to **GitHub Actions**.
-5. Open **Actions** and check the **Deploy VitePress to GitHub Pages** workflow.
-6. After a successful workflow and Pages activation, the site should be available at:
+## My Career Goal
 
-https://am2290445.github.io/career-portfolio/
+My long-term goal is to build a career that combines business knowledge, information systems, data, and artificial intelligence. I am continuing to explore different career paths so I can identify where my interests and developing technical skills can make the greatest contribution.
 
-The project-specific base path is `/career-portfolio/` in `docs/.vitepress/config.mts`.
+This portfolio is a work in progress and will continue to grow as I complete coursework, develop projects, conduct research, and gain experience.
 
-## Research standards
+## Visit My Portfolio
 
-Prefer primary and authoritative sources: U.S. Bureau of Labor Statistics (BLS), O*NET, employer career pages, official product documentation, and NJIT academic resources. For every claim, record the page title, URL, review date, and what it supports. Distinguish employer requirements from general role descriptions and personal interpretation.
+**Explore the website:** [Aryanna Mason Career Portfolio](https://am2290445.github.io/career-portfolio/)
 
-Do not treat one job posting as proof of a market-wide trend. Do not invent salary figures or say a position is open without checking the employer listing. Some modern job titles do not map neatly to one BLS occupation; explain the mapping and limitations.
+**View the source code:** [GitHub Repository](https://github.com/am2290445/career-portfolio)
 
-## Starting references
-- [BLS Occupational Outlook Handbook](https://www.bls.gov/ooh/)
-- [O*NET OnLine](https://www.onetonline.org/)
-- [BLS Data Tools](https://www.bls.gov/data/)
-- [NJIT](https://www.njit.edu/)
-- [VitePress deployment guide](https://vitepress.dev/guide/deploy)
-- [GitHub Pages custom workflows](https://docs.github.com/en/pages/getting-started-with-github-pages/using-custom-workflows-with-github-pages)
-- [Career research example](https://github.com/kaw393939/ai-career-research)
+---
 
-## Important
-This is a developing research and portfolio site. Personal URLs, credentials, experience, skill levels, and project outcomes must be reviewed and confirmed before publication. Never put passwords, student IDs, home addresses, private contact details, or confidential data in a public repository.
+*Thank you for visiting my portfolio and following my progress as I develop my skills and explore opportunities in business, information systems, and artificial intelligence.*
