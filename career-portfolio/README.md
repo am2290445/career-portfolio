@@ -13,7 +13,7 @@ This folder contains the VitePress source for [Aryanna Mason's AI, Business & In
 - docs/portfolio-roadmap.md — suggested projects and evidence to keep.
 - docs/peer-review.md — review tasks, privacy, decisions, and verification.
 - docs/careers/index.md — simple career guide.
-- docs/careers/employer-comparison.md — Wipro and MITRE source comparison.
+- docs/careers/employer-comparison.md — available roles, course-to-skill links, AI/business/IS overview, and employer comparison.
 
 ## Run locally
 
@@ -34,3 +34,7 @@ npm run docs:preview
 ## Keep research inspectable
 
 Link original sources and record the date checked. Separate what a source says from interpretation. A plan is not an observed result. For accepted peer feedback, record the issue, decision, linked change, verification, and reviewer retry. Keep the full personal reflection and personal eligibility details in the private course submission.
+
+## Publish with GitHub Pages
+
+The workflow at the repository root, `.github/workflows/deploy.yml`, builds this folder and deploys it to GitHub Pages. In the repository's **Settings → Pages**, choose **GitHub Actions** as the build and deployment source.

@@ -14,7 +14,7 @@ A simple career research and portfolio site about how business, information syst
 - [Portfolio roadmap](https://am2290445.github.io/career-portfolio/portfolio-roadmap) — project ideas connected to coursework.
 - [Peer review](https://am2290445.github.io/career-portfolio/peer-review) — issue-to-decision-to-verification steps.
 - [Career guide](https://am2290445.github.io/career-portfolio/careers/) — simple role descriptions.
-- [Employer comparison](https://am2290445.github.io/career-portfolio/careers/employer-comparison) — a comparison of Wipro and MITRE job descriptions.
+- [Employer comparison](https://am2290445.github.io/career-portfolio/careers/employer-comparison) — current roles, course-to-skill connections, and two employer descriptions.
 - [About](https://am2290445.github.io/career-portfolio/about/) — the Explorer and Creator creative direction.
 
 ## Creative direction
@@ -47,7 +47,7 @@ npm run docs:preview
 
 ## Publish with GitHub Pages
 
-The workflow in career-portfolio/.github/workflows/deploy.yml builds the VitePress site. The repository uses the /career-portfolio/ base path in docs/.vitepress/config.mts.
+The workflow in .github/workflows/deploy.yml builds the VitePress site in the career-portfolio folder. The site uses the /career-portfolio/ base path in career-portfolio/docs/.vitepress/config.mts.
 
 After changes are pushed to main, check the repository's Actions page for a successful Pages deployment. The published site is:
 

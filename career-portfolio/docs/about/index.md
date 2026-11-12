@@ -21,3 +21,8 @@ Experimentation, making, and translating ideas into something useful. This arche
 **I want to help organizations turn information into better decisions and useful systems.**
 
 This is a developing direction, not a claim that I have already delivered business outcomes professionally. Each project page should show the problem, my contribution, the tools used, what I learned, and evidence such as screenshots, code, or a working demo.
+
+<div class="home-note home-note--accent">
+  <span class="eyebrow">MY NEXT STEP&#x20;·&#x20;ONE WEEK</span>
+  <p>This week, I will choose one requirement from an employer posting and draft a small project plan using public or sample data. I will name the business question, the skill I want to practice, and how I would check the result. This is a plan, not completed project work.</p>
+</div>
