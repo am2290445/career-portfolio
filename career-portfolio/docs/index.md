@@ -1,44 +1,68 @@
 ---
 layout: home
-title: Aryanna Mason Portfolio
-titleTemplate: Business × Information Systems × Data
+title: Aryanna Mason | AI, Business & Information Systems
+titleTemplate: Career research and portfolio
 hero:
-  name: "ARYANNA / IN PROGRESS"
-  text: "Business-minded. Systems-curious. Data-driven."
-  tagline: "A central place for career research, projects, professional identity, and the next steps toward a career in information systems."
+  name: "AI × BUSINESS"
+  text: "Make information useful."
+  tagline: "I’m an NJIT Business and Information Systems student exploring how data, technology, and responsible AI can help organizations work better."
   actions:
     - theme: brand
-      text: Explore career paths
-      link: /careers/
+      text: Explore current opportunities
+      link: /opportunities/
     - theme: alt
-      text: Organize my professional presence
-      link: /professional-hub/
+      text: See how AI connects
+      link: /research/
 features:
-  - title: The Explorer
-    details: Follow questions, compare career paths, discover the systems behind business decisions, and stay open to new directions.
-  - title: The Creator
-    details: Turn learning into visible work: dashboards, databases, Python projects, documentation, and practical case studies.
-  - title: The Career Atlas
-    details: Understand the job, the day-to-day responsibilities, the tools, and how data analytics contributes to business growth.
+  - title: Find a path
+    details: Compare internships, co-ops, and early-career roles. See what each job asks for and check the employer’s requirements.
+    link: /opportunities/
+  - title: Build useful skills
+    details: Connect business knowledge, data, databases, systems analysis, programming, and clear communication.
+    link: /skills/
+  - title: Understand the connection
+    details: Learn in simple terms how AI uses data and information systems to support real business work.
+    link: /research/
 ---
 
 <div class="home-note">
-  <span class="eyebrow">CURRENT FOCUS / BUSINESS & INFORMATION SYSTEMS</span>
-  <p>Information systems connect people, processes, data, and technology. This portfolio explores how that connection creates measurable value for organizations.</p>
+  <span class="eyebrow">BUSINESS · INFORMATION SYSTEMS · AI</span>
+  <p>Business sets the goal. Information systems connect people, processes, data, and software. AI can help with parts of the work, while people check the result.</p>
 </div>
 
-## A career direction, still being explored
+## A practical career direction
 
-My interests are at the intersection of business and technology, especially information systems, databases, programming, and data. I have an Associate degree in Business Administration and am continuing to develop technical skills through coursework and projects.
-
-The roles explored here include data analysis, data engineering, data science, machine learning, statistical programming, and business systems. The goal is to understand the work before choosing a path—and to build evidence that makes the path visible.
+I have an Associate degree in Business Administration and am studying Business and Information Systems at NJIT. I’m interested in using data and technology to understand business problems and build useful solutions.
 
 <div class="signal-grid">
-  <div><strong>01 / DISCOVER</strong><p>Research the work and compare role expectations.</p></div>
-  <div><strong>02 / BUILD</strong><p>Develop practical skills and projects with a clear purpose.</p></div>
-  <div><strong>03 / CONNECT</strong><p>Organize LinkedIn, resume, GitHub, and professional stories.</p></div>
+  <div><strong>01 / EXPLORE</strong><p>Review real job postings and learn what the work involves.</p></div>
+  <div><strong>02 / PRACTICE</strong><p>Build skills through coursework and small, clear projects.</p></div>
+  <div><strong>03 / EXPLAIN</strong><p>Show how a project helps a person, process, or business decision.</p></div>
 </div>
 
-## What makes a strong role profile?
+## My creative compass
 
-Every career page answers three questions: **What does this person do? What does the work require? How can the work help a business grow?** The growth discussion connects the role's technical output to decisions, efficiency, customer experience, risk, revenue, or innovation. It does not assume that data alone guarantees a business result.
+<div class="archetype-grid">
+  <article class="archetype-card archetype-card--explorer">
+    <span class="eyebrow">01 / PRIMARY</span>
+    <h3>The Explorer</h3>
+    <p>Curious, open, and ready to learn. I compare roles, ask questions, and look for the systems behind everyday business work.</p>
+  </article>
+  <article class="archetype-card archetype-card--creator">
+    <span class="eyebrow">02 / SUPPORTING</span>
+    <h3>The Creator</h3>
+    <p>I turn ideas into something people can use: a small website, a clear analysis, a helpful workflow, or a well-documented project.</p>
+  </article>
+</div>
+
+## Start here
+
+- [Internships, co-ops, and jobs](/opportunities/) — openings reviewed November 12, 2026, plus role ideas to search.
+- [Skills for AI, business, and information systems](/skills/) — how my studies connect to the work.
+- [AI, business, and information systems](/research/) — a simple explanation with examples.
+- [Employer comparison](/careers/employer-comparison) — compare real roles and their requirements.
+
+<div class="home-note home-note--accent">
+  <span class="eyebrow">A NOTE ABOUT SKILLS</span>
+  <p>This site describes skills I’m building. I’ll add project evidence as I gain experience, and I’ll check each employer’s requirements before applying.</p>
+</div>

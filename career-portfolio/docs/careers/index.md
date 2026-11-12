@@ -1,18 +1,30 @@
-# Career Atlas
+# Career guide
 
-The roles below sit across business analysis, information systems, data infrastructure, analytics, and statistical software. Job titles vary by employer; responsibilities matter more than labels.
+This guide explores jobs where business, data, AI, and information systems connect. Job titles can vary between employers, so look at the work and requirements in the original posting.
 
-| Role | Main focus | Typical business contribution |
-|---|---|---|
-| [Data Analyst](/careers/data-analyst) | Analyze and explain data | Better decisions, performance visibility, process improvement |
-| [Business Intelligence Analyst](/careers/business-intelligence-analyst) | Metrics, dashboards, reporting | Shared performance measures and faster operational decisions |
-| [Data Engineer](/careers/data-engineer) | Build reliable data pipelines | Trusted, timely data for analytics and operations |
-| [Analytics Engineer](/careers/analytics-engineer) | Transform and model data | Consistent metrics and reusable data products |
-| [Data Scientist](/careers/data-scientist) | Statistical analysis and predictive models | Forecasting, segmentation, experimentation, risk insight |
-| [Machine Learning Engineer](/careers/machine-learning-engineer) | Deploy and maintain ML systems | Automation, personalization, prediction at scale |
-| [Statistical Programmer](/careers/statistical-programmer) | Code statistical analyses and validated outputs | Reliable evidence for research and regulated decisions |
-| [Systems Analyst](/careers/systems-analyst) | Improve business information systems | Better workflows, system fit, and information quality |
+## Opportunity types
 
-## How to compare roles
+- **Internship:** a short, supervised work placement while studying.
+- **Co-op:** a longer placement, often a semester or more, where a student can contribute to a project over time.
+- **Early-career job:** a full-time role for a recent graduate or someone starting in the field.
 
-Consider the type of work you enjoy: explaining patterns, building reliable data infrastructure, defining metrics, developing models, validating statistical results, or improving how business systems work. Review responsibilities in actual job postings; the same title can mean different things across organizations.
+## Role families to explore
+
+- **Data analyst:** organize information and explain patterns.
+- **Business systems analyst:** connect user needs, processes, and software.
+- **AI or data analyst:** test AI or data methods and explain what they show.
+- **AI implementation associate:** help connect an AI tool to a business's data and workflows.
+- **Automation analyst:** find repeated tasks and help test ways to automate them.
+- **AI product analyst:** help a team understand users, choose features, and measure results.
+
+## Start with current postings
+
+The [opportunities page](/opportunities/) has internships, co-ops, and early-career roles checked November 12, 2026. Listings can change, so confirm availability and requirements at the employer's site.
+
+Read the [Wipro and MITRE employer comparison](/careers/employer-comparison) to see what two original job descriptions say about AI and information systems.
+
+## How the work connects
+
+Business teams have goals and problems. Information systems connect people, processes, data, and software. AI can help with a task such as sorting information or estimating a result. People still need to check whether the output is correct, safe, and useful.
+
+See [skills for AI, business, and information systems](/skills/) for examples of how to practice these abilities.
