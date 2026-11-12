@@ -7,29 +7,16 @@ export default defineConfig({
   base: '/career-portfolio/',
   cleanUrls: true,
   themeConfig: {
-    siteTitle: 'ARYANNA / CAREER FIELDNOTES',
+    siteTitle: 'Aryanna Mason',
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Start here', link: '/start-here' },
+      { text: 'Start Here', link: '/start-here' },
       { text: 'Opportunities', link: '/opportunities/' },
       { text: 'Skills', link: '/skills/' },
-      {
-        text: 'Research',
-        items: [
-          { text: 'AI + business + IS', link: '/research/' },
-          { text: 'Sources', link: '/sources/' },
-          { text: 'Peer review', link: '/peer-review' }
-        ]
-      },
-      {
-        text: 'Explore',
-        items: [
-          { text: 'Career guide', link: '/careers/' },
-          { text: 'Employer comparison', link: '/careers/employer-comparison' },
-          { text: 'Portfolio roadmap', link: '/portfolio-roadmap' },
-          { text: 'About', link: '/about/' }
-        ]
-      }
+      { text: 'Portfolio Roadmap', link: '/portfolio-roadmap' },
+      { text: 'AI + Business', link: '/research/' },
+      { text: 'Sources', link: '/sources/' },
+      { text: 'Employer Comparison', link: '/careers/employer-comparison' }
     ],
     sidebar: {
       '/opportunities/': [
