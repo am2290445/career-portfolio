@@ -8,21 +8,24 @@ hero:
   tagline: "I’m an NJIT Business and Information Systems student exploring how data, technology, and responsible AI can help organizations work better."
   actions:
     - theme: brand
-      text: Explore current opportunities
-      link: /opportunities/
+      text: Start here
+      link: /start-here
     - theme: alt
-      text: See how AI connects
-      link: /research/
+      text: Find current opportunities
+      link: /opportunities/
 features:
-  - title: Find a path
+  - title: Explore job levels
     details: Compare internships, co-ops, and early-career roles. See what each job asks for and check the employer’s requirements.
     link: /opportunities/
   - title: Build useful skills
     details: Connect business knowledge, data, databases, systems analysis, programming, and clear communication.
     link: /skills/
-  - title: Understand the connection
+  - title: Follow the research
     details: Learn in simple terms how AI uses data and information systems to support real business work.
     link: /research/
+  - title: Make a project plan
+    details: Turn a business question and a skill into a small project with evidence you can show.
+    link: /portfolio-roadmap
 ---
 
 <div class="home-note">
@@ -57,10 +60,13 @@ I have an Associate degree in Business Administration and am studying Business a
 
 ## Start here
 
+- [Start here](/start-here) — choose a path through the site.
 - [Internships, co-ops, and jobs](/opportunities/) — openings reviewed November 12, 2026, plus role ideas to search.
 - [Skills for AI, business, and information systems](/skills/) — how my studies connect to the work.
 - [AI, business, and information systems](/research/) — a simple explanation with examples.
 - [Employer comparison](/careers/employer-comparison) — compare real roles and their requirements.
+- [Sources](/sources/) — follow each finding to its employer or research source.
+- [Portfolio roadmap](/portfolio-roadmap) — practical project ideas and what evidence to keep.
 
 <div class="home-note home-note--accent">
   <span class="eyebrow">A NOTE ABOUT SKILLS</span>

@@ -5,9 +5,13 @@ This folder contains the VitePress source for [Aryanna Mason's AI, Business & In
 ## Pages
 
 - docs/index.md — homepage and Explorer/Creator creative direction.
+- docs/start-here.md — a short visitor route through the site.
 - docs/opportunities/index.md — internships, co-ops, early-career openings, and role ideas.
 - docs/skills/index.md — skills and course connections.
 - docs/research/index.md — research question, source notes, evidence, interpretation, design decisions, and review checks.
+- docs/sources/index.md — sources, review dates, availability, and claims supported.
+- docs/portfolio-roadmap.md — suggested projects and evidence to keep.
+- docs/peer-review.md — review tasks, privacy, decisions, and verification.
 - docs/careers/index.md — simple career guide.
 - docs/careers/employer-comparison.md — Wipro and MITRE source comparison.
 

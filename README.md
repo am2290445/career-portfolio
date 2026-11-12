@@ -6,9 +6,13 @@ A simple career research and portfolio site about how business, information syst
 
 ## Explore
 
+- [Start here](https://am2290445.github.io/career-portfolio/start-here) — a short path through the site.
 - [Internships, co-ops, and jobs](https://am2290445.github.io/career-portfolio/opportunities/) — current employer postings and role ideas.
 - [Skills](https://am2290445.github.io/career-portfolio/skills/) — how business, data, systems, and technology skills connect.
 - [AI + business + IS](https://am2290445.github.io/career-portfolio/research/) — the research question, sources, evidence, and site decisions.
+- [Research sources](https://am2290445.github.io/career-portfolio/sources/) — source dates and what each link supports.
+- [Portfolio roadmap](https://am2290445.github.io/career-portfolio/portfolio-roadmap) — project ideas connected to coursework.
+- [Peer review](https://am2290445.github.io/career-portfolio/peer-review) — issue-to-decision-to-verification steps.
 - [Career guide](https://am2290445.github.io/career-portfolio/careers/) — simple role descriptions.
 - [Employer comparison](https://am2290445.github.io/career-portfolio/careers/employer-comparison) — a comparison of Wipro and MITRE job descriptions.
 - [About](https://am2290445.github.io/career-portfolio/about/) — the Explorer and Creator creative direction.

@@ -95,3 +95,4 @@ AI can help a business, but people still need to check data quality, privacy, ac
 For each application, record the employer, job title, location, opportunity type, deadline, source, required skills, and next step.
 
 See [the employer comparison](/careers/employer-comparison) for two original role descriptions and the research behind this guide.
+The [source log](/sources/) records what each posting supports and whether a deadline or availability was confirmed.

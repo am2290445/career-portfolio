@@ -22,6 +22,7 @@ This guide explores jobs where business, data, AI, and information systems conne
 The [opportunities page](/opportunities/) has internships, co-ops, and early-career roles checked November 12, 2026. Listings can change, so confirm availability and requirements at the employer's site.
 
 Read the [Wipro and MITRE employer comparison](/careers/employer-comparison) to see what two original job descriptions say about AI and information systems.
+The [source log](/sources/) shows where the job details came from and what could not be confirmed.
 
 ## How the work connects
 

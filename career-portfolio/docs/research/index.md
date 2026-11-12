@@ -20,7 +20,7 @@ The information system supplies and organizes data. AI helps with a prediction. 
 
 ## Research method
 
-I reviewed employer job descriptions and program pages on November 12, 2026. I recorded each role's location, work, skills, stated qualifications, pay if shown, deadline wording, and whether the employer listing could still be reached. The [opportunity page](/opportunities/) separates listings that appeared available from postings whose listed deadlines had passed. The [employer comparison](/careers/employer-comparison) compares Wipro and MITRE.
+I reviewed employer job descriptions and program pages on November 12, 2026. I recorded each role's location, work, skills, stated qualifications, pay if shown, deadline wording, and whether the employer listing could still be reached. The [opportunity page](/opportunities/) separates listings that appeared available from postings whose listed deadlines had passed. The [employer comparison](/careers/employer-comparison) compares Wipro and MITRE. The [source log](/sources/) records what each source supports.
 
 ### What the sources say
 
@@ -69,6 +69,8 @@ Keep private reflections and personal eligibility circumstances in the private c
 ChatGPT helped organize the research, simplify explanations, and structure this site. The employer postings are the sources for job facts. I checked claims against the original employer pages when they were available and marked the MITRE page unavailable instead of treating it as an open job.
 
 ## Sources
+
+The [complete source log](/sources/) includes review dates, deadline status, and what each employer page supports.
 
 - [Wipro — Junior Forward Deployed Engineer](https://careers.wipro.com/job/Junior-Forward-Deployed-Engineer/160017-en_US/) — employer posting, checked November 12, 2026.
 - [MITRE — Associate AI Solutions Architect](https://careers.mitre.org/us/en/job/R117730/Associate-AI-Solutions-Architect) — official listing indexed during research; page unavailable when checked November 12, 2026.

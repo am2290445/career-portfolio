@@ -10,11 +10,26 @@ export default defineConfig({
     siteTitle: 'ARYANNA / CAREER FIELDNOTES',
     nav: [
       { text: 'Home', link: '/' },
+      { text: 'Start here', link: '/start-here' },
       { text: 'Opportunities', link: '/opportunities/' },
       { text: 'Skills', link: '/skills/' },
-      { text: 'AI + IS', link: '/research/' },
-      { text: 'Career guide', link: '/careers/' },
-      { text: 'About', link: '/about/' }
+      {
+        text: 'Research',
+        items: [
+          { text: 'AI + business + IS', link: '/research/' },
+          { text: 'Sources', link: '/sources/' },
+          { text: 'Peer review', link: '/peer-review' }
+        ]
+      },
+      {
+        text: 'Explore',
+        items: [
+          { text: 'Career guide', link: '/careers/' },
+          { text: 'Employer comparison', link: '/careers/employer-comparison' },
+          { text: 'Portfolio roadmap', link: '/portfolio-roadmap' },
+          { text: 'About', link: '/about/' }
+        ]
+      }
     ],
     sidebar: {
       '/opportunities/': [
@@ -27,8 +42,24 @@ export default defineConfig({
       ],
       '/research/': [
         { text: 'AI + business + IS', link: '/research/' },
+        { text: 'Sources', link: '/sources/' },
+        { text: 'Peer review', link: '/peer-review' },
         { text: 'Skills', link: '/skills/' },
         { text: 'Career opportunities', link: '/opportunities/' }
+      ],
+      '/sources/': [
+        { text: 'Research sources', link: '/sources/' },
+        { text: 'AI + business + IS', link: '/research/' },
+        { text: 'Employer comparison', link: '/careers/employer-comparison' }
+      ],
+      '/peer-review': [
+        { text: 'Peer review', link: '/peer-review' },
+        { text: 'Research method', link: '/research/' }
+      ],
+      '/portfolio-roadmap': [
+        { text: 'Portfolio roadmap', link: '/portfolio-roadmap' },
+        { text: 'Skills', link: '/skills/' },
+        { text: 'Opportunities', link: '/opportunities/' }
       ],
       '/careers/': [
         { text: 'Career guide', link: '/careers/' },
@@ -37,6 +68,7 @@ export default defineConfig({
         { text: 'Skills', link: '/skills/' }
       ]
     },
+    search: { provider: 'local' },
     socialLinks: [
       { icon: 'github', link: 'https://github.com/am2290445/career-portfolio' }
     ],
