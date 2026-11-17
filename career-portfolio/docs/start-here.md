@@ -19,7 +19,9 @@ Read the job description to check the employer's tasks, requirements, location, 
 
 ## 3. Connect a skill to evidence
 
-Choose one skill from the [skills page](/skills/), then use the [portfolio roadmap](/portfolio-roadmap) to plan a small example. A project idea is not completed work; publish it only after it is built and checked.
+Choose one skill from the [skills page](/skills/), then use the [portfolio roadmap](/portfolio-roadmap) to plan a small example. The [Portfolio Plan](/plan) shows how I will organize my evidence. A project idea is not completed work; publish it only after it is built and checked.
+
+To see existing work, visit [Projects](/projects/) or open the [Professional Hub](/professional-hub/) for my profiles and résumé.
 
 ## 4. Follow one source
 

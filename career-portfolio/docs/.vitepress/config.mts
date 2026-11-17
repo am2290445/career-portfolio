@@ -13,10 +13,17 @@ export default defineConfig({
       { text: 'Start Here', link: '/start-here' },
       { text: 'Opportunities', link: '/opportunities/' },
       { text: 'Skills', link: '/skills/' },
-      { text: 'Portfolio Roadmap', link: '/portfolio-roadmap' },
+      {
+        text: 'Portfolio',
+        items: [
+          { text: 'Portfolio Plan', link: '/plan' },
+          { text: 'Projects', link: '/projects/' },
+          { text: 'Professional Hub', link: '/professional-hub/' },
+          { text: 'Project Roadmap', link: '/portfolio-roadmap' }
+        ]
+      },
       { text: 'AI + Business', link: '/research/' },
-      { text: 'Sources', link: '/sources/' },
-      { text: 'Employer Comparison', link: '/careers/employer-comparison' }
+      { text: 'Sources', link: '/sources/' }
     ],
     sidebar: {
       '/opportunities/': [
@@ -45,8 +52,29 @@ export default defineConfig({
       ],
       '/portfolio-roadmap': [
         { text: 'Portfolio roadmap', link: '/portfolio-roadmap' },
+        { text: 'Portfolio Plan', link: '/plan' },
+        { text: 'Projects', link: '/projects/' },
+        { text: 'Professional Hub', link: '/professional-hub/' },
         { text: 'Skills', link: '/skills/' },
         { text: 'Opportunities', link: '/opportunities/' }
+      ],
+      '/plan': [
+        { text: 'Portfolio Plan', link: '/plan' },
+        { text: 'Portfolio roadmap', link: '/portfolio-roadmap' },
+        { text: 'Projects', link: '/projects/' },
+        { text: 'Professional Hub', link: '/professional-hub/' },
+        { text: 'Career opportunities', link: '/opportunities/' },
+        { text: 'Skills', link: '/skills/' }
+      ],
+      '/projects/': [
+        { text: 'Project Portfolio', link: '/projects/' },
+        { text: 'Portfolio Plan', link: '/plan' },
+        { text: 'Professional Hub', link: '/professional-hub/' }
+      ],
+      '/professional-hub/': [
+        { text: 'Professional Materials', link: '/professional-hub/' },
+        { text: 'Project Portfolio', link: '/projects/' },
+        { text: 'Portfolio Plan', link: '/plan' }
       ],
       '/careers/': [
         { text: 'Career guide', link: '/careers/' },

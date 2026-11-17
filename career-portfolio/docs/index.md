@@ -67,6 +67,9 @@ I have an Associate degree in Business Administration and am studying Business a
 - [Employer comparison](/careers/employer-comparison) — compare real roles and their requirements.
 - [Sources](/sources/) — follow each finding to its employer or research source.
 - [Portfolio roadmap](/portfolio-roadmap) — practical project ideas and what evidence to keep.
+- [Projects](/projects/) — view my course project repositories and contribution notes.
+- [Professional Hub](/professional-hub/) — open my GitHub, LinkedIn, and résumé.
+- [Portfolio Plan](/plan) — see the audience, site options, and checks I am planning.
 
 <div class="home-note home-note--accent">
   <span class="eyebrow">A NOTE ABOUT SKILLS</span>

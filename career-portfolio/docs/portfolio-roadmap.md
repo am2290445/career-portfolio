@@ -1,5 +1,7 @@
 # Portfolio roadmap
 
+See the [Portfolio Plan](/plan) for the two website approaches, user stories, checks, and professional-material destinations for this course milestone.
+
 These are project ideas that connect Business and Information Systems study to AI-related work. They are **plans**, not completed projects or requirements from an employer.
 
 ## Project 1 — Map a business process
